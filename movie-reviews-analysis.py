@@ -36,4 +36,3 @@ for i in range(0, predictedY.size):
         print ('Bad Review')
     if (predictedY[i]=='Pos'):
         print ('Good Review')
-
